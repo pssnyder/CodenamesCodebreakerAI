@@ -9,6 +9,7 @@ Library
 
 # Ignore temporary files
 Temp
+.cache
 
 # Ignore VS Code files
 .vscode
